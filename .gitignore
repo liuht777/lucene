@@ -1,3 +1,10 @@
 target/
 .idea/
 /out/
+*.iws
+*.iml
+*.ipr
+.externalToolBuilders/
+.settings/
+.classpath
+.project
